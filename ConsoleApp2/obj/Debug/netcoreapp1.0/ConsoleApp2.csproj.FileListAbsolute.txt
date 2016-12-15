@@ -1,0 +1,6 @@
+E:\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.0\ConsoleApp2.dll
+E:\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp1.0\ConsoleApp2.pdb
+E:\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.0\ConsoleApp2.csprojResolveAssemblyReference.cache
+E:\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.0\ConsoleApp2.AssemblyInfo.cs
+E:\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.0\ConsoleApp2.dll
+E:\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp1.0\ConsoleApp2.pdb
